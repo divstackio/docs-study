@@ -14,6 +14,8 @@ extra_css:
     - css/custom.css
 theme:
   name: material
+  favicon: img/emblem.png
+  logo: img/emblem.png
   font:
     text: Urbanist
     code: Fira Mono
