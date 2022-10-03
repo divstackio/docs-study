@@ -19,6 +19,8 @@ theme:
   font:
     text: Urbanist
     code: Fira Mono
+  features:
+    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
