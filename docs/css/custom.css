@@ -1,5 +1,12 @@
-:root > * {
-  --md-primary-fg-color:        #ff7e00;
+:root>* {
+  --md-primary-fg-color: #ff7e00;
   --md-primary-fg-color--light: #e7cdb3;
-  --md-primary-fg-color--dark:  #994f04;
+  --md-primary-fg-color--dark: #994f04;
+}
+
+
+@media screen and (min-width: 76.25em) {
+  [dir=ltr] .md-nav--integrated>.md-nav__list>.md-nav__item--active .md-nav--secondary {
+    border-left: none;
+  }
 }
