@@ -21,6 +21,7 @@ theme:
     code: Fira Mono
   features:
     - toc.integrate
+    - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
