@@ -2,9 +2,6 @@ site_name: UX Case Studies
 site_url: https://studies.divstack.io
 copyright: Copyright &copy; 2022
 
-# Repository information
-repo_name: divstackio/docs-study
-repo_url: https://github.com/divstackio/docs-study
 
 nav:
   - Home: README.md
