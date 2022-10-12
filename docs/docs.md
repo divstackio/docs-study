@@ -1,17 +1,15 @@
 # UX Design Case Study
-## **INTRODUCTION**
+## Introduction
 
-The document explains how to set up a robust documentation system using
-MkDocs, GitHub and GitHub Actions, and any server that integrates with
-GitHub.
+Welcome to my UX student portfolio, in these documents i will showcase my work during the Google UX Design Certificate. 
 
-Topics covered in this document are:
+Topics we'll be covering and what we've learned:
 
--   Setting up MkDocs application or working environment on local machine
+-   Sketching wireframes
 
--   Setting up automation using GitHub and GitHub Actions
+-   Creating personas and user stories
 
-    -   Updating documentation website automatically
+-   Updating documentation website automatically
 
 -   Maintaining documentation
 
