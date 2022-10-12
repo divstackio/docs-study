@@ -26,13 +26,13 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: 'indigo'
-      accent: 'deep orange'
+      accent: 'indigo'
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: 'deep orange'
+      primary: 'indigo'
       accent: 'indigo'
       toggle:
         icon: material/weather-sunny
