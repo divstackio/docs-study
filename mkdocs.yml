@@ -5,7 +5,6 @@ copyright: Copyright &copy; 2022
 # Repository information
 repo_name: divstackio/docs-study
 repo_url: https://github.com/divstackio/docs-study
-edit_uri: edit/main/docs/docs/
 
 nav:
   - Home: README.md
