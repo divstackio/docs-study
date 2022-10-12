@@ -1,17 +1,14 @@
-# Welcome to Markdown Docs Sample
+# UX Design Case Study
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## **Introduction** ##
 
-## Commands
+Welcome to my student portfolio, My name is A.D.S.R Martinez and in the following documents i'll showcase my work during the Google UX Design Certificate. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**Topics we'll be covering and what we've learned:**
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-   Creating personas and user stories
+-   Sketching wireframes
+-   Affinity diagrams, themes and insights
+-   Prototyping
+-   Competitive audits
+-   Research studies
