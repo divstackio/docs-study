@@ -1,5 +1,6 @@
 # UX Design Case Study
-## Introduction
+
+## **Introduction** ##
 
 Welcome to my student portfolio, My name is A.D.S.R Martinez and in the following documents i'll showcase my work during the Google UX Design Certificate. 
 
