@@ -17,7 +17,7 @@ theme:
   favicon: img/emblem.png
   logo: img/emblem.png
   font:
-    text: Urbanist
+    text: Poppins
     code: Fira Mono
   features:
     - toc.integrate
