@@ -5,17 +5,12 @@ Welcome to my student portfolio, in the following documents we'll showcase  work
 
 Topics we'll be covering and what we've learned:
 
--   Sketching wireframes
-
 -   Creating personas and user stories
-
--   Updating documentation website automatically
-
--   Maintaining documentation
-
-    -   Starting a new document
-
-    -   Updating an old document
+-   Sketching wireframes
+-   Affinity diagrams, themes and insights
+-   Prototyping
+-   Competitive audits
+-   Research studies
 
 ### Pre-Requisites
 
