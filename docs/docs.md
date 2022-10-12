@@ -1,7 +1,7 @@
 # UX Design Case Study
 ## Introduction
 
-Welcome to my UX student portfolio, in these documents i will showcase my work during the Google UX Design Certificate. 
+Welcome to my student portfolio, in the following documents we'll showcase  work during the Google UX Design Certificate. 
 
 Topics we'll be covering and what we've learned:
 
