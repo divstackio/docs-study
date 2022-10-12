@@ -1,5 +1,4 @@
-# The MkDocs Documentation Build Process 
-
+# UX Design Case Study
 ## **INTRODUCTION**
 
 The document explains how to set up a robust documentation system using
