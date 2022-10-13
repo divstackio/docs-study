@@ -20,6 +20,8 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 
 ## UX Design Thinking Process: 01. Empathize
 
+The first stage (or mode) of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting
+
 We started our project by empathizing with users and create random personas.
 
 **So what are personas exactly?** 
