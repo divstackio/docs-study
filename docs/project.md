@@ -27,15 +27,18 @@ The first stage (or mode) of the Design Thinking process involves developing a s
 
 We started our project by empathizing with users and creating random personas that meets solutions for all users.
 
+<details> 
+  <summary>What are personas?</summary>
+
+"Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to **understand users’ needs, experiences, behaviors and goals"
+	
+</details>
+
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001.png">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona002.png">
 
-<details> 
-  <summary>Short summary of personas and user stories.</summary>
 
-> "Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to **understand users’ needs, experiences, behaviors and goals"**
-</details>
 
 
 
