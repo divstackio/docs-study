@@ -24,10 +24,9 @@ We started our project by empathizing with users and create random personas.
 
 <details> 
   <summary>Open spoiler for personas </summary>
-<img src="img/persona001.png">
-<img src="img/persona002.png">
-![Persona 01](img/persona001.png)
-![Persona 02](img/persona002.png)
+<img src="https://github.com/divstackio/docs-study/blob/main/docs/img/persona001.png">
+<img src="https://github.com/divstackio/docs-study/blob/main/docs/img/persona002.png)">
+
 </details>
 
 
