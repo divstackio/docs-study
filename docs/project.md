@@ -5,7 +5,7 @@
 Challenge: Create a application that helps individuals and communities to access (local) healthcare.
 
 Solution: Medipath is a responsive and accessible app that offers medical solutions, healthcare and products to individuals.
-
+<br><br>
 
 **Topics we'll be covering and what we've learned:**
 
