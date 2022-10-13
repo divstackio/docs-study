@@ -21,7 +21,7 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 ## UX Design Thinking Process: 01. Empathize
 
 We started our project by empathizing with users and create random personas.
-![Persona 01](img\p01.png)
+![Persona 01](img/p01.png)
 
 
 ## **SETTING UP MKDOCS APPLICATION OR WORKING ENVIRONMENT ON LOCAL MACHINE**
@@ -359,7 +359,8 @@ mkdocs serve
     an error in the source files.
 
 ### Serving images in a document
-In MkDocs, images are served from the **img** folder in the **docs** directory. 
+In MkDocs, images are served from the **
+** folder in the **docs** directory. 
 You can then link an image in a source file by using the relative path to that image. 
 
 !!! note
