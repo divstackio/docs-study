@@ -1,6 +1,6 @@
 # Local Healthcare Application 
 
-## Launch ##
+
 
 Challenge: Create a application that helps individuals and communities to access (local) healthcare.
 
@@ -18,7 +18,7 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 
 
 
-### UX Design Thinking Process: 01. Empathize
+## UX Design Thinking Process: 01. Empathize
 
 We started our project by empathizing with users and create random personas.
 ![Persona 01](img\p01.png)
