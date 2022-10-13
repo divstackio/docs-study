@@ -1,8 +1,11 @@
-# UX Design Case Study
+# Local Healthcare Application 
 
-## **Introduction** ##
+## Launch ##
 
-Welcome to my student portfolio, My name is A.D.S.R Martinez and in the following documents i'll showcase my work during the Google UX Design Certificate. 
+Challenge: Create a application that helps individuals and communities to access (local) healthcare.
+
+Solution: Medipath is a responsive and accessible app that offers medical solutions, healthcare and products to individuals.
+
 
 **Topics we'll be covering and what we've learned:**
 
@@ -15,17 +18,11 @@ Welcome to my student portfolio, My name is A.D.S.R Martinez and in the followin
 
 
 
-### Pre-Requisites
+### UX Design Thinking Process: 01. Empathize
 
-To implement this documentation build process, you must have:
+We started our project by empathizing with users and create random personas.
+[![Another Cat](img\example.png)](http://www.alleycat.org)
 
--   Python 3.6+ installed.
-
--   Knowledge about writing documentation using the Markdown format.
-
--   A GitHub account and a repository for the documentation source files.
-
--   A hosting platform like Plesk that has a GitHub client.
 
 ## **SETTING UP MKDOCS APPLICATION OR WORKING ENVIRONMENT ON LOCAL MACHINE**
 
