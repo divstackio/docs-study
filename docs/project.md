@@ -33,6 +33,10 @@ We started our project by empathizing with users and create random personas.
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona002.png">
 </details>
 
+**User stories** 
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/US01.png">
+
+
 
 ## **SETTING UP MKDOCS APPLICATION OR WORKING ENVIRONMENT ON LOCAL MACHINE**
 
