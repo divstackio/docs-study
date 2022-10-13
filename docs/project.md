@@ -22,21 +22,20 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 
 The first stage (or mode) of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting
 
-We started our project by empathizing with users and create random personas.
+We started our project by empathizing with users and creating random personas along with their user stories.
 
-**So what are personas exactly?** 
-> "Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to understand users’ needs, experiences, behaviors and goals"
+
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001.png">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona002.png">
-
 
 <details> 
-  <summary>Open spoiler for personas </summary>
-	
-<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001.png">
-<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona002.png">
+  <summary>Short summary of personas and user stories.</summary>
+
+> "Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to **understand users’ needs, experiences, behaviors and goals"**
 </details>
+
+
 
 **User stories** 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/US01.png">
