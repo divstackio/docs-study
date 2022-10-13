@@ -29,7 +29,7 @@ We started our project by empathizing with users and creating random personas th
 
 <details> 
   <summary>What are personas?</summary>
-
+<br>
 "Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to **understand users’ needs, experiences, behaviors and goals"
 	
 </details>
