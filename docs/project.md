@@ -22,6 +22,7 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 
 We started our project by empathizing with users and create random personas.
 ![Persona 01](img/persona001.png)
+![Persona 02](img/persona002.png)
 
 
 ## **SETTING UP MKDOCS APPLICATION OR WORKING ENVIRONMENT ON LOCAL MACHINE**
