@@ -23,7 +23,7 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 We started our project by empathizing with users and create random personas.
 
 **So what are personas exactly?** 
-> Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to understand users’ needs, experiences, behaviors and goals.
+> "Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to understand users’ needs, experiences, behaviors and goals"
 
 
 <details> 
