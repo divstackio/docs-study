@@ -23,7 +23,7 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 We started our project by empathizing with users and create random personas.
 
 <details> 
-  <summary>Open spoiler for **personas** </summary>
+  <summary>Open spoiler for personas </summary>
 ![Persona 01](img/persona001.png)
 ![Persona 02](img/persona002.png)
 </details>
