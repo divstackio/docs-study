@@ -35,10 +35,10 @@ We started our project by empathizing with users and creating random personas th
 </details>
 
 <br>
-```bash
+
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001.png#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001d.png#gh-dark-mode-only">
-```
+
 
 !!! Summary
 
