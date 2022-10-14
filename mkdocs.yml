@@ -59,4 +59,4 @@ markdown_extensions:
   - attr_list
 plugins:
     - search
-    # - pdf-export
+    - pdf-export
