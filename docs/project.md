@@ -16,7 +16,7 @@ Solution: Medipath is a responsive and accessible app that offers medical soluti
 -   Competitive audits
 -   Research studies
 
-
+<br>
 
 ## UX Design Thinking Process: 01. Empathize
 
@@ -34,6 +34,7 @@ We started our project by empathizing with users and creating random personas th
 	
 </details>
 
+<br>
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001.png#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001d.png#gh-dark-mode-only">
