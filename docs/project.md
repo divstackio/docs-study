@@ -35,7 +35,8 @@ We started our project by empathizing with users and creating random personas th
 </details>
 
 
-<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/p001.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001.png#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001#d1.png#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona002.png">
 
 
