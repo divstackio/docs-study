@@ -10,3 +10,22 @@
     border-left: none;
   }
 }
+
+div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap{
+  margin-right: 50px;
+}
+
+img.float-left {
+  margin: 0 0.5rem 0.5rem 0;
+  float: left;
+}
+
+img.float-right {
+  margin: 0 0 0.5rem 0.5rem;
+  float: right;
+}
+
+img.align-center {
+  display: block;
+  margin: auto;
+}
