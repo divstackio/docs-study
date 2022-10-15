@@ -57,7 +57,7 @@ We started our project by empathizing with users and creating random personas th
 
 
 
-<br>
+<br><br>
 ### User stories ###
 
 To better understand users we must create user stories based on the data of **personas.** This is so we can better recognize the user and their needs. 
