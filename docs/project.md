@@ -80,7 +80,20 @@ To better understand users we must create user stories based on the data of **pe
 <br><br>
 ### Journey Mapping ###
 
-To get more information about the user we need to know their emotions and interactions between the product. 
+
+
+To get more information about the user we need to know their emotions and interactions between the product. We do this by creating a journey map. By capturing the user flow we can understand their paint points and emphatize.
+
+
+<details> 
+ <summary>Short summary of journey mapping</summary>
+<br>
+A journey map is a visualization of the process that a person goes through in order to accomplish a goal.
+In its most basic form, journey mapping starts by compiling a series of user actions into a timeline. Next, the timeline is fleshed out with user thoughts and emotions in order to create a narrative. This narrative is condensed and polished, ultimately leading to a visualization.
+<br>
+</details>
+
+
 
 <img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY01.png?raw=true#gh-light-mode-only">
 <img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY01D.png?raw=true#gh-dark-mode-only">
