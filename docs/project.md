@@ -122,6 +122,9 @@ Advancing further in the design thinking process we come to define and ideate ph
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit.png">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit2.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit3.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit4.png">
+
 
 
 
