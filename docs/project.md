@@ -83,7 +83,7 @@ To better understand users we must create user stories based on the data of **pe
 To get more information about the user we need to know their emotions and interactions between the product. 
 
 <img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY01.png?raw=true#gh-light-mode-only">
-
+<img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY01D.png?raw=true#gh-dark-mode-only">
 
 
 
