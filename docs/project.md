@@ -21,9 +21,10 @@
 
 <br>
 
-## UX Design Thinking Process: 01. Empathize
 
-The first stage (or mode) of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting
+##Emphatize
+
+The first stages of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting.
 
 
 ### Personas ###
@@ -85,7 +86,7 @@ To better understand users we must create user stories based on the data of **pe
 
 
 
-To get more information about the user we need to know their emotions and interactions between the product. We do this by creating a journey map. By capturing the user flow we can understand their paint points and emphatize.
+To get more information about the user we need to know their emotions and interactions between the product. We do this by creating a journey map. By capturing the user actions we can understand more clearly about their paint points.
 
 
 <details> 
@@ -107,16 +108,16 @@ In its most basic form, journey mapping starts by compiling a series of user act
 
 
 > **Note**
-> We were unable to create a journey map for the persona "Leo" because it didn't have enough ability to execute a (user)flow. In opposition we did emphatize with the user. Since he was unable to communicate with locals and couldn't find any information related to registering his health insurance papers. We came up with the idea to create a **Knowledgebase** or **Informational blog** translated in 5 different languages so everyone could understand. Furthermore, in collaboration with government instances users could be forwarded to a appointment link. *More to follow in affinity diagrams.*
+> We were unable to create a journey map for the persona "Leo" because he didn't have enough ability to execute a action. Since he was unable to communicate with locals and couldn't find any information related to registering his health insurance papers. We came up with the idea to create a **Knowledgebase** or **Informational blog** translated in 5 different languages so everyone could understand. Furthermore, in collaboration with government instances users could be forwarded to a appointment link. *More to follow in affinity diagrams.*
  
 
+## Define and Ideate
+
+
+Advancing further in the design thinking process we come to define and ideate phases, Ideation is a creative process where designers generate ideas in sessions (e.g., brainstorming, worst possible idea). Participants gather with open minds to produce as many ideas as they can to address a problem statement in a facilitated, judgment-free environment.
 
 
 
-
-
-
-## **SETTING UP MKDOCS APPLICATION OR WORKING ENVIRONMENT ON LOCAL MACHINE**
 
 MkDocs is a Python documentation tool that uses **Markdown** as its
 markup language to generate intelligent and beautiful documentation in
