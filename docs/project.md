@@ -121,6 +121,7 @@ In its most basic form, journey mapping starts by compiling a series of user act
 Advancing further in the design thinking process we come to define and ideate phases, Ideation is a creative process where designers generate ideas in sessions (e.g., brainstorming, worst possible idea). Participants gather with open minds to produce as many ideas as they can to address a problem statement in a facilitated, judgment-free environment.
 
 
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit.png">
 
 
 MkDocs is a Python documentation tool that uses **Markdown** as its
