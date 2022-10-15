@@ -107,7 +107,7 @@ In its most basic form, journey mapping starts by compiling a series of user act
 
 
 > **Note**
-> We were unable to create a journey map for the persona "Leo" because it didn't have enough ability to execute a (user)flow. In opposition we did emphatize with the user. Since he was unable to communicate with locals and couldn't find any information related to registering his health insurance papers. We came up with the idea to create a **Knowledgebase** or **Informational blog** translated in 5 different languages so everyone could understand. Furthermore, in collaboration with government instances users could be forwarded to a appointment link.
+> We were unable to create a journey map for the persona "Leo" because it didn't have enough ability to execute a (user)flow. In opposition we did emphatize with the user. Since he was unable to communicate with locals and couldn't find any information related to registering his health insurance papers. We came up with the idea to create a **Knowledgebase** or **Informational blog** translated in 5 different languages so everyone could understand. Furthermore, in collaboration with government instances users could be forwarded to a appointment link. *More to follow in affinity diagrams.*
  
 
 
