@@ -59,12 +59,18 @@ We started our project by empathizing with users and creating random personas th
 
 
 **User stories** 
+
+
+<details> 
+ <summary>What are User stories?</summary>
+ A user story is a small, self-contained unit of development work designed to accomplish a specific goal within a product. A user story is usually written from the user's perspective and follows the format: “As [a user persona], I want [to perform this action] so that [I can accomplish this goal].”
+</details>
+
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORY01.png#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORYNEWD.png#gh-dark-mode-only">
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORYNEW01.png.png#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORYNEW01D.png.png#gh-dark-mode-only">
-
 
 
 
