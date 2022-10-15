@@ -31,7 +31,7 @@ We started our project by empathizing with users and creating random personas th
   <summary>What are personas?</summary>
 <br>
 "Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to **understand users’ needs, experiences, behaviors and goals"
-	
+<br>
 </details>
 
 <br>
@@ -64,7 +64,9 @@ To better understand users we must create user stories based on the data of **pe
 
 <details> 
  <summary>What are User stories?</summary>
+<br>
  A user story is a small, self-contained unit of development work designed to accomplish a specific goal within a product. A user story is usually written from the user's perspective and follows the format: “As [a user persona], I want [to perform this action] so that [I can accomplish this goal].”
+<br>
 </details>
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORY01.png#gh-light-mode-only">
