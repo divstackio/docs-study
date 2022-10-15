@@ -59,7 +59,8 @@ We started our project by empathizing with users and creating random personas th
 
 
 **User stories** 
-<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORY01.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORY01.png#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORYNEWD.png#gh-dark-mode-only">
 
 
 
