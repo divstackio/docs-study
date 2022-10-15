@@ -86,6 +86,11 @@ To get more information about the user we need to know their emotions and intera
 <img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY01D.png?raw=true#gh-dark-mode-only">
 
 
+<img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY02.png?raw=true#gh-light-mode-only">
+<img src="https://github.com/divstackio/docs-study/blob/main/docs/img/JOURNEY02D.png?raw=true#gh-dark-mode-only">
+
+
+
 
 
 
