@@ -42,8 +42,6 @@ We started our project by empathizing with users and creating random personas th
 
 
 
-
-
 !!! Summary
 
     Shima is a model that experienced a drastic trauma when she was younger. She has a quite busy lifestyle and is always on the move. Unfortunately she hasn't             recovered yet from her past and requires therapy twice a week. She doesn't have much time and wants to discover a better alternative to therapy sessions. 
@@ -55,6 +53,12 @@ We started our project by empathizing with users and creating random personas th
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/PERSONA002d.png#gh-dark-mode-only">
 
 
+
+!!! Summary
+
+    Leo recently moved from Italy to the Netherlands and doesn't speak the local language. He wants to work but hasn't any legal documents like health insurance.
+    He needs more information and whereabouts to get start working.
+ 
 
 
 
