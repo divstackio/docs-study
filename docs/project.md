@@ -40,6 +40,10 @@ We started our project by empathizing with users and creating random personas th
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/persona001d.png#gh-dark-mode-only">
 
 
+
+
+
+
 !!! Summary
 
     Shima is a model that experienced a drastic trauma when she was younger. She has a quite busy lifestyle and is always on the move. Unfortunately she hasn't             recovered yet from her past and requires therapy twice a week. She doesn't have much time and wants to discover a better alternative to therapy sessions. 
@@ -55,7 +59,8 @@ We started our project by empathizing with users and creating random personas th
 
 
 **User stories** 
-<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/US01.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/USERSTORY01.png">
+
 
 
 
