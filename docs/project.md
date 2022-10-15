@@ -22,7 +22,7 @@
 <br>
 
 
-##Emphatize
+## Emphatize
 
 The first stages of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting.
 
@@ -110,6 +110,10 @@ In its most basic form, journey mapping starts by compiling a series of user act
 > **Note**
 > We were unable to create a journey map for the persona "Leo" because he didn't have enough ability to execute a action. Since he was unable to communicate with locals and couldn't find any information related to registering his health insurance papers. We came up with the idea to create a **Knowledgebase** or **Informational blog** translated in 5 different languages so everyone could understand. Furthermore, in collaboration with government instances users could be forwarded to a appointment link. *More to follow in affinity diagrams.*
  
+<br><br>
+
+
+
 
 ## Define and Ideate
 
