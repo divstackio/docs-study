@@ -60,6 +60,7 @@ We started our project by empathizing with users and creating random personas th
 
 **User stories** 
 
+To better understand users we must create user stories based on the data of **personas.** 
 
 <details> 
  <summary>What are User stories?</summary>
