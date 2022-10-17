@@ -119,6 +119,10 @@ In its most basic form, journey mapping starts by compiling a series of user act
 
 Advancing further in the design thinking process we come to define and ideate phases, Ideation is a creative process where designers generate ideas in sessions (e.g., brainstorming, worst possible idea). Participants gather with open minds to produce as many ideas as they can to address a problem statement in a facilitated, judgment-free environment.
 
+<br>
+In the next section we start our competitive audits. 
+
+**Competitive audits** are one of the many valuable steps you can take during the ideation process. A competitive audit is an overview of your competitors’ strengths and weaknesses. Analyzing the brands and products of competitors, or the companies who offer similar products as you do, can give you a well-rounded foundation of knowledge about the market your product will enter. 
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit.png">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit2.png">
