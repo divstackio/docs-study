@@ -120,8 +120,9 @@ In its most basic form, journey mapping starts by compiling a series of user act
 Advancing further in the design thinking process we come to define and ideate phases, Ideation is a creative process where designers generate ideas in sessions (e.g., brainstorming, worst possible idea). Participants gather with open minds to produce as many ideas as they can to address a problem statement in a facilitated, judgment-free environment.
 
 <br>
-In the next section we start our competitive audits. 
 
+
+### Competitive audits ###
 **Competitive audits** are one of the many valuable steps you can take during the ideation process. A competitive audit is an overview of your competitors’ strengths and weaknesses. Analyzing the brands and products of competitors, or the companies who offer similar products as you do, can give you a well-rounded foundation of knowledge about the market your product will enter. 
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit.png">
@@ -130,7 +131,7 @@ In the next section we start our competitive audits.
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit4.png">
 
 
-### Sketching and wireframing
+### Crazy 8's
 Next up is pen to paper. Crazy 8’s is a core Design Sprint method. It is a fast sketching exercise that challenges people to sketch eight distinct ideas in eight minutes. The goal is to push beyond your first idea, frequently the least innovative, and to generate a wide variety of solutions to your challenge.
 
 
