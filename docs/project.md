@@ -132,6 +132,8 @@ In the next section we start our competitive audits.
 
 After
 
+[![Alternate Text]({img/thumb.png})]({https://studies.divstack.io/crazyeight.mp4} "Crazy eight excercise")
+
 
 <video width="1019" height="613" controls>
   <source src="https://studies.divstack.io/crazyeight.mp4" type="video/mp4">
