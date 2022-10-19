@@ -134,7 +134,7 @@ After
 
 
 <video width="1019" height="613" controls>
-  <source src="img/crazyeight.mp4" type="video/mp4">
+  <source src="https://studies.divstack.io/crazyeight.mp4" type="video/mp4">
 </video>
 
 
