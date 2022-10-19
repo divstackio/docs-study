@@ -135,6 +135,7 @@ After
 
 
 [![Crazy eight]()](https://studies.divstack.io/crazyeight.mp4)
+[![Alternate Text]({image-url})]({https://studies.divstack.io/crazyeight.mp4} "Link Title")
 
 
 
