@@ -134,8 +134,9 @@ In the next section we start our competitive audits.
 Next up is pen to paper. Crazy 8’s is a core Design Sprint method. It is a fast sketching exercise that challenges people to sketch eight distinct ideas in eight minutes. The goal is to push beyond your first idea, frequently the least innovative, and to generate a wide variety of solutions to your challenge.
 
 
-[![Crazy eight]()](https://studies.divstack.io/crazyeight.mp4)
+[![Crazy eight]({})](https://studies.divstack.io/crazyeight.mp4)
 [![Alternate Text]({image-url})]({https://studies.divstack.io/crazyeight.mp4} "Link Title")
+
 
 
 
