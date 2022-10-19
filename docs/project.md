@@ -130,6 +130,13 @@ In the next section we start our competitive audits.
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/competitive-audit4.png">
 
 
+After
+
+
+<video width="1019" height="613" controls>
+  <source src="img/crazyeight.mp4" type="video/mp4">
+</video>
+
 
 
 
