@@ -134,8 +134,7 @@ After
 
 
 
-
-<center>[![Crazy eight]()](https://studies.divstack.io/crazyeight.mp4)</center>
+[![Crazy eight]()](https://studies.divstack.io/crazyeight.mp4)
 
 
 
