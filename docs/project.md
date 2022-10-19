@@ -135,12 +135,8 @@ After
 
 
 
-[![Crazy eight]()](https://studies.divstack.io/crazyeight.mp4)
+<center>[![Crazy eight]()](https://studies.divstack.io/crazyeight.mp4)</center>
 
-
-<video width="1019" height="613" controls>
-  <source src="https://studies.divstack.io/crazyeight.mp4" type="video/mp4">
-</video>
 
 
 
