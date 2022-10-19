@@ -132,7 +132,7 @@ In the next section we start our competitive audits.
 
 After
 
-[![Alternate Text]({https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/thumb.png})]({https://studies.divstack.io/crazyeight.mp4} "Crazy eight excercise")
+[![Alternate Text]({https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/thumb.png})({https://studies.divstack.io/crazyeight.mp4} "Crazy eight excercise")
 
 
 <video width="1019" height="613" controls>
