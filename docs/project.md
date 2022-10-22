@@ -148,7 +148,7 @@ Wireframes help us establish the basic layout of a screen. A layout is the struc
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/3.jpg">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/4.jpg">
 
-
+<br>
 
 ### Digital wireframes ###
 
@@ -160,6 +160,7 @@ If you do not know what figma is, learn more so here: <https://www.freecodecamp.
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/003.png">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/004.png">
 
+<br>
 
 ### Building a low fidelity prototype
 
