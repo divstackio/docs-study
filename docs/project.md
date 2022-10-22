@@ -137,6 +137,7 @@ Next up is pen to paper. Crazy 8’s is a core Design Sprint method. It is a fas
 
 [![Watch the video](img/thumb.png)](https://studies.divstack.io/crazy8.mp4)
 
+<br>
 
 ### Sketching paper wireframes ###
 Wireframes help us establish the basic layout of a screen. A layout is the structure that supports how visual components on a page are arranged, like images, text, and icons. Because paper wireframes are inexpensive and easy to create, you can draw multiple wireframes for the same screen of an app or website to explore a bunch of design possibilities. 
@@ -149,7 +150,10 @@ Wireframes help us establish the basic layout of a screen. A layout is the struc
 
 
 
+### Digital wireframes ###
 
+We are contineuing our case study to screen time. We start by converting our ideas to digital wireframes through the **figma application**. 
+If you do not know what figma is, learn more so here: <https://www.freecodecamp.org/news/figma-crash-course/>
 
 
 MkDocs is a Python documentation tool that uses **Markdown** as its
