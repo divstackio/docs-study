@@ -155,6 +155,14 @@ Wireframes help us establish the basic layout of a screen. A layout is the struc
 We are contineuing our case study to screen time. We start by converting our ideas to digital wireframes through the **figma application**. 
 If you do not know what figma is, learn more so here: <https://www.freecodecamp.org/news/figma-crash-course/>
 
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/001.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/002.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/003.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/004.png">
+
+
+
+
 
 MkDocs is a Python documentation tool that uses **Markdown** as its
 markup language to generate intelligent and beautiful documentation in
