@@ -161,6 +161,22 @@ If you do not know what figma is, learn more so here: <https://www.freecodecamp.
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/004.png">
 
 
+### Building a low fidelity prototype
+
+After all our sketching and initial design work is done, we'll start by creating our first prototype to prospect the user flow and have a preview of how the product
+feels like in a real-world scenario.
+
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/LOWFI.png">
+
+You can preview the low-fidelity prototype here: <https://www.figma.com/proto/ykun1JU0h20Hg1u51DDpIk/LOW-FIDELITY?node-id=2%3A17&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A17>
+
+> **Note**
+> The LOWFI prototype is outdated and hasn't been worked on since we push new features and updates to our high fidelity prototype by preference. 
+
+
+
+
+
 
 
 
