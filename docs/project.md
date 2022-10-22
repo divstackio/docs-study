@@ -138,6 +138,14 @@ Next up is pen to paper. Crazy 8’s is a core Design Sprint method. It is a fas
 [![Watch the video](img/thumb.png)](https://studies.divstack.io/crazy8.mp4)
 
 
+### Sketching paper wireframes ###
+Wireframes help us establish the basic layout of a screen. A layout is the structure that supports how visual components on a page are arranged, like images, text, and icons. Because paper wireframes are inexpensive and easy to create, you can draw multiple wireframes for the same screen of an app or website to explore a bunch of design possibilities. 
+
+
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/1.jpg">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/2.jpg">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/3.jpg">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/4.jpg">
 
 
 
