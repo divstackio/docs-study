@@ -208,5 +208,14 @@ Interactive app can be found here: <https://www.figma.com/proto/LDLrHaCII463UQOf
 The final step in the design thinking process is testing the application and conduct research to gain insights based on users feelings, opinions and biases. 
 Following this section we can iterate back to the ideate phase and forward to comply with new ideas and features obtained by feedback. 
 
+### Research study ###
+
+Let's outline our project goals and define our principle questions.
+You can view/download the research study plan here: <https://docs.google.com/document/d/1_eRbcqvp7kbn5VP1D-fnfE6kv8luGE9_3Hh3GNpvjXY/edit?usp=sharing>
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/UXR.png">
+
+
+
+
 
 
