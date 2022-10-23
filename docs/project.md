@@ -162,6 +162,12 @@ If you do not know what figma is, learn more so here: <https://www.freecodecamp.
 
 <br>
 
+## Prototyping
+
+After subsequently time emphatizing and ideating, it is time to start building. This is were the project comes to live with visual elements and prototypes that makes the app responsive. 
+
+<br>
+
 ### Building a low fidelity prototype
 
 After all our sketching and initial design work is done, we'll start by creating our first prototype to prospect the user flow and have a preview of how the product
@@ -196,4 +202,6 @@ Interactive app can be found here: <https://www.figma.com/proto/LDLrHaCII463UQOf
 
 <br>
 
+
+Testing Phase
 
