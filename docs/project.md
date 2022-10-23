@@ -174,6 +174,7 @@ You can preview the low-fidelity prototype here: <https://www.figma.com/proto/yk
 > **Note**
 > The LOWFI prototype is outdated and hasn't been worked on since we push new features and updates to our high fidelity prototype by preference. 
 
+<br>
 
 ### High fidelity prototype
 
