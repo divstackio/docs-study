@@ -5,7 +5,7 @@ copyright: Copyright 2022
 
 nav:
   - Home: README.md
-  - Project: project.md
+  - Project: UX project.md
 extra_css:
     - css/custom.css
 theme:
@@ -26,13 +26,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: 'indigo'
       accent: 'indigo'
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+     
   icon:
     admonition:
       note: octicons/tag-16

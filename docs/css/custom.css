@@ -12,7 +12,7 @@
 }
 
 div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap{
-  margin-right: 50px;
+  padding-right: 25px;
 }
 
 img.float-left {
