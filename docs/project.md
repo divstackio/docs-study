@@ -175,9 +175,10 @@ You can preview the low-fidelity prototype here: <https://www.figma.com/proto/yk
 > The LOWFI prototype is outdated and hasn't been worked on since we push new features and updates to our high fidelity prototype by preference. 
 
 
+### High fidelity prototype
 
-
-
+Continueing our design phase, we move to a high-fi prototype. This is how a product should look or feel like for a user. 
+First we make the mockups followed by a layout, then we create a user flow and afterwards add transition and animations.
 
 
 
