@@ -181,6 +181,13 @@ Continueing our design phase, we move to a high-fi prototype. This is how a prod
 First we make the mockups followed by a layout, then we create a user flow and afterwards add transition and animations.
 
 
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/HF01.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/HF02.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/HF03.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/HF04.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/HF05.png">
+
+
 
 MkDocs is a Python documentation tool that uses **Markdown** as its
 markup language to generate intelligent and beautiful documentation in
