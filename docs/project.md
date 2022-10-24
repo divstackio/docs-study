@@ -214,8 +214,11 @@ Let's outline our project goals and define our principle questions.
 You can view/download the research study plan here: <https://docs.google.com/document/d/1_eRbcqvp7kbn5VP1D-fnfE6kv8luGE9_3Hh3GNpvjXY/edit?usp=sharing>
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/UXR.png">
 
+### Affinity diagrams ###
+
+An affinity diagram is a collection of large amounts of data that is organized into groups or themes based on their relationships. The affinity diagram process is great when you want to make sense of insights gathered during research, as well as when you want to organize ideas generated during ideation sessions.
 
 
-
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/affinity.jpg">
 
 
