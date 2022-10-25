@@ -221,5 +221,12 @@ An affinity diagram is a collection of large amounts of data that is organized i
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/affinity02.jpg">
 
+In the first phase we come up with as many ideas, insights or concepts as possible. We gather all of these on sticky notes.
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/affinity#1.png">
+<br>
+Secondly, we start organising our concepts in themes (groupings), then we create (prioritized) insights based on these themes. 
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/affinity#2.png">
+
+
 
 
