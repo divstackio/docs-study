@@ -232,6 +232,7 @@ Secondly, we start organising our concepts in themes (groupings).
 Once we've collected everything, it is time to create insights based on the data we gathered.  
 <br>
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/insights.png">
+<br>
 You can download/view the document w/ the following link: <https://docs.google.com/document/d/1UKa4ekEbVehAauKCqohQL3AyvbgU3d21Jp6yZtLN_Cs/edit?usp=sharing>
 
 
