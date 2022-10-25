@@ -225,19 +225,22 @@ An affinity diagram is a collection of large amounts of data that is organized i
 In the first phase we come up with as many ideas, insights or concepts as possible. We gather all of these on sticky notes.
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/affinity%231.png">
 <br>
+
 #### Creating themes ####
 Secondly, we start organising our concepts in themes (groupings).
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/affinity%232.png">
 
 
-<br><br>
+<br>
 #### Create insights ####
 Once we've collected everything, it is time to create insights based on the data we gathered.  
+You can download/view the document with the following link: <https://docs.google.com/document/d/1UKa4ekEbVehAauKCqohQL3AyvbgU3d21Jp6yZtLN_Cs/edit?usp=sharing>
 <br>
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/insights.png">
 <br>
-You can download/view the document w/ the following link: <https://docs.google.com/document/d/1UKa4ekEbVehAauKCqohQL3AyvbgU3d21Jp6yZtLN_Cs/edit?usp=sharing>
 
 #### Prioritize data ####
 
-
+The final stage is to prioritize the most important features.
+<br>
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/prioritized_themes.png">
