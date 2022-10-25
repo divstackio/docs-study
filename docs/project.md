@@ -235,7 +235,7 @@ Secondly, we start organising our concepts in themes (groupings).
 #### Create insights ####
 Once we've collected everything, it is time to create insights based on the data we gathered.  
 You can download/view the document with the following link: <https://docs.google.com/document/d/1UKa4ekEbVehAauKCqohQL3AyvbgU3d21Jp6yZtLN_Cs/edit?usp=sharing>
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/insights.png">
 <br>
 
@@ -243,5 +243,6 @@ You can download/view the document with the following link: <https://docs.google
 
 The final stage is to prioritize the most important features.
 view document: <https://docs.google.com/document/d/1gKDVRJUdzgl9ce8D0F19SiGB4EJVbuyqXjrNbjj-KN0/edit?usp=sharing>
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/prioritized_themes.png">
+<br>
