@@ -1,0 +1,11 @@
+{#-
+    This file was automatically generated - do not edit
+  -#}
+  {% set class = "" %}
+  <div class="new-md-tabs">
+    <ul class="md-tabs__list">
+    {% for nav_item in nav %}
+        {% include "partials/tabs-item.html" %}
+    {% endfor %}
+    </ul>
+</div>

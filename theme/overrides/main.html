@@ -5,6 +5,9 @@
   {% block extrahead %}
     <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/main.7073df5a.min.css' | url }}">
   {% endblock %}
+  {% block header %}
+    {% include "overrides/partials/header.html" %}
+  {% endblock %}
 
   {% block scripts %}
     {{ super() }}

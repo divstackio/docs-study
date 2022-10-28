@@ -29,3 +29,24 @@ img.align-center {
   display: block;
   margin: auto;
 }
+
+.new-md-tabs{
+  flex-grow: 1;
+}
+
+.md-tabs{
+  display: none;
+}
+
+.md-tabs__item {
+	font-weight: bold;
+}
+
+@media screen and (max-width: 76.25em){
+  .new-md-tabs {
+    display: none;
+  }
+  .md-tabs{
+    display: none;
+  }
+}
