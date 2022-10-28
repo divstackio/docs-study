@@ -4,33 +4,31 @@ copyright: Copyright 2022
 
 
 nav:
-  - Home: README.md
-  - Project: UX project.md
+  - Home: index.md
+  - Introduction: introduction.md
+  - Project: project.md
 extra_css:
     - css/custom.css
+    - css/home.css
 theme:
   name: material
+  custom_dir: theme
   favicon: img/emblem.png
   logo: img/emblem.png
   font:
     text: Poppins
     code: Fira Mono
   features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.share
+    - search.suggest
     - toc.integrate
     - toc.follow
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: 'indigo'
-      accent: 'indigo'
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: 'indigo'
-      accent: 'indigo'
-     
+    primary: 'indigo'
+    accent: 'indigo'
   icon:
     admonition:
       note: octicons/tag-16
@@ -55,6 +53,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - attr_list
+  - md_in_html
 plugins:
     - search
-    - pdf-export
+    - pdf-export:
+        enabled_if_env: ENABLE_PDF_EXPORT
