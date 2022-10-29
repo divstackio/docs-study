@@ -3,10 +3,10 @@ site_url: https://studies.divstack.io
 copyright: Copyright 2022
 
 
-nav:
-  - Home: index.md
-  - Introduction: introduction.md
-  - Project: project.md
+#nav:
+#  - Home: index.md
+ # - Introduction: introduction.md
+#  - Project: project.md
   
 extra_css:
     - css/custom.css
