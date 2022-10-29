@@ -54,3 +54,7 @@ img.align-center {
     display: none;
   }
 }
+
+.md-content__button.md-icon{
+  display: none;
+}
