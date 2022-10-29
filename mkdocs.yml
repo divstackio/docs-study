@@ -19,11 +19,11 @@ theme:
     text: Poppins
     code: Fira Mono
   features:
-    - search.highlight
     - navigation.top
     - navigation.tabs
     # - navigation.tabs.sticky
     - search.share
+    - search.highlight
     - search.suggest
     - toc.integrate
     - toc.follow
