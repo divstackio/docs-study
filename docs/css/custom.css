@@ -14,12 +14,9 @@
 div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap{
   padding-right: 25px;
 }
-
-div.sourceCode {
-    overflow: hidden;
-}
-pre {
-overflow-y: hidden !important;
+md-menu-content {
+  overflow-y: hidden;
+  min-height: 400px;
 }
 
 img.float-left {
