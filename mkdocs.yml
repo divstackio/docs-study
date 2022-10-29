@@ -1,28 +1,28 @@
 site_name: UX Case Studies
 site_url: https://studies.divstack.io
+repo_url: https://github.com/divstackio/docs-study/
 copyright: Copyright 2022
 
 
-#nav:
-#  - Home: index.md
- # - Introduction: introduction.md
-#  - Project: project.md
+nav:
+ - Home: index.md
+ - Introduction: introduction.md
+ - Project: project.md
   
 extra_css:
     - css/custom.css
-    
+    - css/home.css    
 theme:
   name: material
-  # custom_dir: theme
+  custom_dir: overrides
   favicon: img/emblem.png
   logo: img/emblem.png
   font:
     text: Poppins
     code: Fira Mono
   features:
-    #- navigation.top
-    #- navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tabs
     - search.share
     - search.suggest
     - toc.integrate
@@ -56,7 +56,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
 plugins:
-    - search
+  - search
 extra:
   consent:
     title: Cookie consent

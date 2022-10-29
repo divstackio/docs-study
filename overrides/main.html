@@ -3,16 +3,17 @@
   -#}
   {% extends "base.html" %}
   {% block extrahead %}
-    <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/main.7073df5a.min.css' | url }}">
+    <link rel="stylesheet" href="{{ 'assets/stylesheets/main.7073df5a.min.css' | url }}">
     <link rel="stylesheet" href="{{ 'css/home.css' | url }}">
     <link rel="stylesheet" href="{{ 'css/custom.css' | url }}">
   {% endblock %}
+
   {% block header %}
-    {% include "overrides/partials/header.html" %}
+    {% include "partials/header.html" %}
   {% endblock %}
 
   {% block scripts %}
     {{ super() }}
-    <script src="{{ 'overrides/assets/javascripts/bundle.d665d539.min.js' | url }}"></script>
+    <script src="{{ 'assets/javascripts/bundle.d665d539.min.js' | url }}"></script>
   {% endblock %}
   

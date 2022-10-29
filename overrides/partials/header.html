@@ -33,7 +33,7 @@
       </div>
 
       {% if "navigation.tabs" in features %}
-         {% include "overrides/partials/tabs.html" %}
+         {% include "partials/new_tabs.html" %}
       {% endif %}
 
       {% if not config.theme.palette is mapping %}
@@ -81,9 +81,7 @@
       {% endif %}
 
       {% if config.repo_url %}
-        <div class="md-header__source">
-          {% include "partials/source.html" %}
-        </div>
+       
       {% endif %}
     </nav>
     {% if "navigation.tabs.sticky" in features %}

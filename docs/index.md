@@ -1,4 +1,4 @@
 ---
-template: overrides/home.html
-title: UX Research Work
+template: home.html
+title: UX Case Studies
 ---
