@@ -15,8 +15,8 @@ extra_css:
 theme:
   name: material
   custom_dir: overrides
-  favicon: img/emblem.png
-  logo: img/emblem.png
+  favicon: img/ux.png
+  logo: img/ux.png
   font:
     text: Poppins
     code: Fira Mono
@@ -29,7 +29,7 @@ theme:
     - toc.follow
   palette:
     primary: '#3646a3'
-    accent: 'indigo'
+    accent: '3646a3'
   icon:
     admonition:
       note: octicons/tag-16
