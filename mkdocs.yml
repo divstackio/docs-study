@@ -53,11 +53,16 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.tasklist:
+    custom_checkbox: true
+  - pymdownx.tabbed:
+    alternate_style: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  
 plugins:
   - search
 extra:
