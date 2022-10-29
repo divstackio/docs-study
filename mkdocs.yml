@@ -7,21 +7,22 @@ nav:
   - Home: index.md
   - Introduction: introduction.md
   - Project: project.md
+  
 extra_css:
     - css/custom.css
-    - css/home.css
+    
 theme:
   name: material
-  custom_dir: theme
+  # custom_dir: theme
   favicon: img/emblem.png
   logo: img/emblem.png
   font:
     text: Poppins
     code: Fira Mono
   features:
-    - navigation.top
-    - navigation.tabs
-    # - navigation.tabs.sticky
+    #- navigation.top
+    #- navigation.tabs
+    - navigation.tabs.sticky
     - search.share
     - search.suggest
     - toc.integrate
