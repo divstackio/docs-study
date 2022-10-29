@@ -258,4 +258,18 @@ We are moving from our mobile app to desktop viewport, this is called progessive
 IA or also known as sitemaps 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/IA.png">
 
+<br>
+
+## tab test ##
+<hr />
+=== "tab_1"
+
+    Content of tab_1  
+    ![](../../images/home/relux_deer.gif)
+
+=== "tab_2"
+
+    Content of tab_2  
+    ![](../../images/home/tear_deer.gif)
+
 
