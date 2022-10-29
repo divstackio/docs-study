@@ -10,10 +10,12 @@
     border-left: none;
   }
 }
-
-div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap{
-  padding-right: 25px;
+div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap {
+overflow-y: hidden;
+padding-right: 25px;
+min-height: 400px;
 }
+
 md-menu-content {
   overflow-y: hidden;
   min-height: 400px;
