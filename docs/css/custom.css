@@ -49,7 +49,7 @@ img.align-center {
 	font-weight: normal;
 }
 
-@media screen and (max-width: 76.25em){
+@media screen and (max-width: 1220px){
   .new-md-tabs {
     display: none;
   }
