@@ -48,8 +48,6 @@ theme:
       quote: octicons/quote-16
 markdown_extensions:
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - toc:
       title: Table of Contents
   - admonition
@@ -59,6 +57,8 @@ markdown_extensions:
   - pymdownx.snippets
   - attr_list
   - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
 plugins:
   - search
 extra:
