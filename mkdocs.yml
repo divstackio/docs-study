@@ -7,9 +7,9 @@ nav:
   - Home: index.md
   - Introduction: introduction.md
   - Project: project.md
-# extra_css:
-    # - css/custom.css
-    # - css/home.css
+extra_css:
+    - css/custom.css
+    - css/home.css
 theme:
   name: material
   custom_dir: theme
