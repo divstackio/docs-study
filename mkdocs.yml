@@ -19,6 +19,7 @@ theme:
     text: Poppins
     code: Fira Mono
   features:
+    - search.highlight
     - navigation.top
     - navigation.tabs
     # - navigation.tabs.sticky
@@ -56,5 +57,4 @@ markdown_extensions:
   - md_in_html
 plugins:
     - search
-    - pdf-export:
-        enabled_if_env: ENABLE_PDF_EXPORT
+     - offline
