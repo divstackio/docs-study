@@ -15,7 +15,7 @@
 div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap {
 }
 
-md-sidebar__scrollwrap {
+md-sidebar__scrollwrap, div.md-sidebar__scrollwrap {
 overflow-y: hidden;
 padding-right: 25px;
 min-height: 400px;
