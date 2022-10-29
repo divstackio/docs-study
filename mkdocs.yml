@@ -28,7 +28,7 @@ theme:
     - toc.integrate
     - toc.follow
   palette:
-    primary: 'black'
+    primary: 'indigo'
     accent: 'indigo'
   icon:
     admonition:
