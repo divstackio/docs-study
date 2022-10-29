@@ -18,6 +18,9 @@ div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap{
 div.sourceCode {
     overflow: hidden;
 }
+pre {
+overflow-y: hidden !important;
+}
 
 img.float-left {
   margin: 0 0.5rem 0.5rem 0;
