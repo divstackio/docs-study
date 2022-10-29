@@ -21,6 +21,7 @@ theme:
     text: Poppins
     code: Fira Mono
   features:
+    - navigation.instant
     - navigation.top
     - navigation.tabs
     - search.share
