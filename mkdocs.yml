@@ -47,12 +47,12 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 markdown_extensions:
-  - pymdownx.superfences
   - toc:
       title: Table of Contents
   - admonition
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - attr_list
