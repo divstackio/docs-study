@@ -8,6 +8,9 @@ nav:
  - Home: index.md
  - Introduction: introduction.md
  - Project: project.md
+ 
+ hide:
+  - toc
   
 extra_css:
     - css/custom.css
