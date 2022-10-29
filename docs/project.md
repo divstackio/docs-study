@@ -246,11 +246,12 @@ view document: <https://docs.google.com/document/d/1gKDVRJUdzgl9ce8D0F19SiGB4EJV
 <br><br>
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/prioritized_themes.png">
 <br>
-
+<br><br>
 
 ## Progressive Enhancement ##
 
 We are moving from our mobile app to desktop viewport, this is called progessive enhancement. To ensure responsiveness, every device must be able to view content according to their screen size. 
+<br>
 
 ### Information architecture (IA) ###
 
