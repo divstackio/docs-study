@@ -1,6 +1,5 @@
 site_name: Designing for users
 site_url: https://studies.divstack.io
-#repo_url: https://github.com/divstackio/docs-study/
 copyright: Copyright 2022
 
 
@@ -12,6 +11,8 @@ nav:
 extra_css:
     - css/custom.css
     - css/home.css    
+    
+    
 theme:
   name: material
   custom_dir: overrides
@@ -59,3 +60,4 @@ markdown_extensions:
 plugins:
   - search
 
+extra:
