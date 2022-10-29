@@ -21,6 +21,10 @@ md-menu-content {
   min-height: 400px;
 }
 
+.md-tabs__link {
+font-weight: normal;
+}
+
 img.float-left {
   margin: 0 0.5rem 0.5rem 0;
   float: left;
