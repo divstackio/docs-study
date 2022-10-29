@@ -4,9 +4,7 @@
   --md-primary-fg-color--dark: #3646a3;
 }
 
-body {
-overflow-y: hidden;
-}
+
 
 @media screen and (min-width: 1220px) {
   [dir=ltr] .md-nav--integrated>.md-nav__list>.md-nav__item--active .md-nav--secondary {
@@ -15,13 +13,10 @@ overflow-y: hidden;
 }
 
 
-div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap {
-}
+
 
 md-sidebar__scrollwrap, div.md-sidebar__scrollwrap {
-overflow-y: hidden;
 padding-right: 25px;
-min-height: 400px;
 }
 
 
