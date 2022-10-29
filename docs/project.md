@@ -261,28 +261,21 @@ IA or also known as sitemaps
 <br>
 
 ## tab test ##
-<hr />
-=== "tab_1"
+!!! example
 
-    Content of tab_1  
-    ![](../../images/home/relux_deer.gif)
+    === "Unordered List"
 
-=== "tab_2"
+        ``` markdown
+        * Sed sagittis eleifend rutrum
+        * Donec vitae suscipit est
+        * Nulla tempor lobortis orci
+        ```
 
-    Content of tab_2  
-    ![](../../images/home/tear_deer.gif)
+    === "Ordered List"
 
-
-
-<Tabs
-  defaultValue="apple"
-  values={[
-    {label: 'Apple', value: 'apple'},
-    {label: 'Orange', value: 'orange'},
-    {label: 'Banana', value: 'banana'},
-  ]}>
-  <TabItem value="apple">This is an apple 🍎</TabItem>
-  <TabItem value="orange">This is an orange 🍊</TabItem>
-  <TabItem value="banana">This is a banana 🍌</TabItem>
-</Tabs>
+        ``` markdown
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
+        ```
 
