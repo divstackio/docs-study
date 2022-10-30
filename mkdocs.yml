@@ -10,7 +10,7 @@ nav:
  - Project: project.md
  - Test:
     - Empathize: empathize.md
-    - Test 2: project.md
+    - Ideate: ideate.md
   
 extra_css:
     - css/custom.css
