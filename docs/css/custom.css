@@ -5,19 +5,20 @@
 }
 
 
+
 @media screen and (min-width: 76.25em) {
   [dir=ltr] .md-nav--integrated>.md-nav__list>.md-nav__item--active .md-nav--secondary {
     border-left: none;
   }
 }
 
-div.md-sidebar.md-sidebar--primary > .md-sidebar__scrollwrap{
-  padding-right: 25px;
+
+
+
+md-sidebar__scrollwrap, div.md-sidebar__scrollwrap {
+padding-right: 25px;
 }
-md-menu-content {
-  overflow-y: hidden;
-  min-height: 400px;
-}
+
 
 img.float-left {
   margin: 0 0.5rem 0.5rem 0;
@@ -43,7 +44,7 @@ img.align-center {
 }
 
 .md-tabs__item {
-	font-weight: bold;
+	font-weight: normal;
 }
 
 @media screen and (max-width: 76.25em){

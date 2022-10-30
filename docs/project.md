@@ -22,7 +22,7 @@
 <br>
 
 
-## Emphatize
+## **Emphatize** ##
 
 The first stages of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting.
 
@@ -114,7 +114,7 @@ In its most basic form, journey mapping starts by compiling a series of user act
 
 
 
-## Define and Ideate
+## **Define and Ideate** ##
 
 
 Advancing further in the design thinking process we come to define and ideate phases, Ideation is a creative process where designers generate ideas in sessions (e.g., brainstorming, worst possible idea). Participants gather with open minds to produce as many ideas as they can to address a problem statement in a facilitated, judgment-free environment.
@@ -257,5 +257,22 @@ We are moving from our mobile app to desktop viewport, this is called progessive
 
 IA or also known as sitemaps 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/IA.png">
+
+<br>
+
+
+## Tabs test ##
+
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
 
 
