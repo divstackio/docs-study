@@ -1,5 +1,3 @@
-## **Emphatize** ##
-
 The first stages of the Design Thinking process involves developing a sense of empathy towards the people you are designing for, to gain insights into what they need, what they want, how they behave, feel, and think, and why they demonstrate such behaviors, feelings, and thoughts when interacting with products in a real-world setting.
 
 
