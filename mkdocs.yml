@@ -20,7 +20,7 @@ theme:
   favicon: img/ux.png
   logo: img/ux.png
   font:
-    text: Poppins
+    # text: Poppins
     code: Fira Mono
   features:
     - navigation.instant
