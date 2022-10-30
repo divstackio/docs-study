@@ -9,9 +9,11 @@
   --md-text-font: "<font>"; 
 }
 
-div.md-content, md-content {
+body {
 	background-color: #FAFAFA;
 }
+
+
 
 @font-face {
   font-family: LCT Picon;
@@ -29,6 +31,7 @@ div.md-content, md-content {
 
 md-sidebar__scrollwrap, div.md-sidebar__scrollwrap {
 padding-right: 25px;
+background-color: #ffffff;
 }
 
 
