@@ -1,5 +1,3 @@
-## Testing Phase ##
-
 The final step in the design thinking process is testing the application and conduct research to gain insights based on users feelings, opinions and biases. 
 Following this section we can iterate back to the ideate phase and forward to comply with new ideas and features obtained by feedback. 
 
