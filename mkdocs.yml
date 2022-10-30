@@ -10,7 +10,9 @@ nav:
  - Project: project.md
  - Medipath project:
     - Empathize: empathize.md
-    - Ideate: ideate.md
+    - Define & Ideate: ideate.md
+    - Prototype: prototype.md
+    - Testing phase: testing.md
   
 extra_css:
     - css/custom.css
