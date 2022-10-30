@@ -13,6 +13,7 @@ nav:
     - Define & Ideate: ideate.md
     - Prototype: prototype.md
     - Testing phase: testing.md
+    - Progression: progressive.md
   
 extra_css:
     - css/custom.css
