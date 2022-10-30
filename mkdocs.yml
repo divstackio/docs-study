@@ -9,7 +9,7 @@ nav:
  - Introduction: introduction.md
  - Project: project.md
  - Test:
-    - Test 1: introduction.md
+    - Empathize: empathize.md
     - Test 2: project.md
   
 extra_css:
