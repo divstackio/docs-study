@@ -9,15 +9,15 @@
   --md-text-font: "<font>"; 
 }
 
-md-sidebar__scrollwrap, div.md-sidebar__scrollwrap {
+div.md-sidebar__scrollwrap, md-sidebar__scrollwrap {
 padding-right: 25px;
 background-color: #ffffff !important;
 }
 
 
 
-div.md-container, md-container {
-	background-color: #FAFAFA;
+main.md-main, md-main {
+background-color: #FAFAFA;
 }
 
 
