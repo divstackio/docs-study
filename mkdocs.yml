@@ -8,6 +8,9 @@ nav:
  - Home: index.md
  - Introduction: introduction.md
  - Project: project.md
+ - Test:
+    - Test 1: introduction.md
+    - Test 2: project.md
   
 extra_css:
     - css/custom.css
