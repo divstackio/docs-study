@@ -34,7 +34,7 @@ theme:
     - toc.integrate
     - toc.follow
   palette:
-    primary: '#fafaff'
+    primary: '#5d6592'
     accent: '3646a3'
   icon:
     admonition:
