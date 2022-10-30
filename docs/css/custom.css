@@ -9,6 +9,10 @@
   --md-text-font: "<font>"; 
 }
 
+div.md-content, md-content {
+	background-color: #FAFAFA;
+}
+
 @font-face {
   font-family: LCT Picon;
   src: /LCTPicon-Regular.ttf;
