@@ -1,5 +1,3 @@
-## Prototyping
-
 After subsequently time emphatizing and ideating, it is time to start building. This is were the project comes to live with visual elements and prototypes that makes the app responsive. 
 
 <br>
