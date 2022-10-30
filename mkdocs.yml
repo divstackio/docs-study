@@ -5,7 +5,7 @@ copyright: Copyright 2022
 
 
 nav:
- - Home: index.md
+ - Home: https://google.nl/
  - Introduction: introduction.md
  - Project: project.md
  - Test:
