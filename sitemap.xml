@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://studies.divstack.io/progressive/</loc>
+         <lastmod>2022-10-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://studies.divstack.io/project/</loc>
          <lastmod>2022-10-30</lastmod>
          <changefreq>daily</changefreq>
