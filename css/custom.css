@@ -9,7 +9,7 @@
   --md-text-font: "<font>"; 
 }
 
-body {
+div.md-container, md-container {
 	background-color: #FAFAFA;
 }
 
