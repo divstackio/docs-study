@@ -9,27 +9,12 @@
   --md-text-font: "<font>"; 
 }
 
-md-header, md-header--shadow {
-padding-top: 5px;
-padding-bottom: 5px;
 
 div.md-sidebar__scrollwrap, md-sidebar__scrollwrap {
 padding-right: 25px;
-background-color: #ffffff !important;
 }
 
 
-
-main.md-main, md-main {
-background-color: #FAFAFA;
-}
-
-
-
-@font-face {
-  font-family: LCT Picon;
-  src: /LCTPicon-Regular.ttf;
-}
 
 @media screen and (min-width: 76.25em) {
   [dir=ltr] .md-nav--integrated>.md-nav__list>.md-nav__item--active .md-nav--secondary {
