@@ -1,5 +1,4 @@
 
-## Progressive Enhancement ##
 
 We are moving from our mobile app to desktop viewport, this is called progessive enhancement. To ensure responsiveness, every device must be able to view content according to their screen size. 
 <br>
