@@ -24,3 +24,11 @@ IA or also known as sitemaps
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
+   
+ 
+ ## Designing a low fidelity for desktop ##
+ 
+ <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web01.png">
+  <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web02.png">
+   <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web03.png">
+ <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web04.png">
