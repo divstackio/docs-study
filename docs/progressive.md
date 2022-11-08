@@ -13,13 +13,16 @@ IA or also known as sitemaps
 
 ## Tabs test ##
 
-=== "Unordered list"
+=== "Low fidelity Prototype"
 
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
+ Having our sitemap ready, we sketch our designs for the desktop version. It is important to remember having a brand consistent design. One that matches the visuals, components and colors of the mobile version to maintain a uniform brand.
+ 
+ <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web01.png">
+  <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web02.png">
+   <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web03.png">
+ <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web04.png">
 
-=== "Ordered list"
+=== "High Fidelity Prototype"
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
@@ -27,12 +30,4 @@ IA or also known as sitemaps
     
     
    
- 
- ## Designing a low fidelity for desktop ##
- 
- Having our sitemap ready, we sketch our designs for the desktop version. It is important to remember having a brand consistent design. One that matches the visuals, components and colors of the mobile version to maintain a uniform brand.
- 
- <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web01.png">
-  <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web02.png">
-   <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web03.png">
- <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web04.png">
+
