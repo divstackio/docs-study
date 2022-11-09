@@ -11,9 +11,8 @@ IA or also known as sitemaps
 <br>
 
 
-## Tabs test ##
+### Low fidelity (desktop) ###
 
-=== "Low fidelity Prototype"
 
  Having our sitemap ready, we sketch our designs for the desktop version. It is important to remember having a brand consistent design. One that matches the visuals, components and colors of the mobile version to maintain a uniform brand.
  
@@ -21,8 +20,9 @@ IA or also known as sitemaps
   <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web02.png">
    <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web03.png">
  <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/web04.png">
-
-=== "High Fidelity Prototype"
+ 
+ 
+### High fidelity (desktop) ###
 
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final01.png">
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final02.png">
