@@ -37,5 +37,6 @@ IA or also known as sitemaps
 <img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final11.png">
     
     
-   
-
+ <br>
+ 
+ We'll be updating the case study soon with more content.
