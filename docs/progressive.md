@@ -24,9 +24,17 @@ IA or also known as sitemaps
 
 === "High Fidelity Prototype"
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final01.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final02.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final03.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final04.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final05.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final06.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final07.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final08.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final09.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final10.png">
+<img src="https://raw.githubusercontent.com/divstackio/docs-study/main/docs/img/final11.png">
     
     
    
