@@ -1,5 +1,4 @@
 
-* Medicare *
 
 Challenge: Help locals and foreigners to access healthcare 
 
