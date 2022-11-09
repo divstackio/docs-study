@@ -3,6 +3,7 @@
 Challenge: Help locals and foreigners to access healthcare 
 
 Solution: Create a responsive and accessible application in multi-language so everyone has access to healthcare.
+<br>
 
 
 **Topics we'll be covering and what we've learned:**
