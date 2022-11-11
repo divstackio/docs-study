@@ -14,7 +14,7 @@ nav:
     - Prototype: prototype.md
     - Testing phase: testing.md
     - Progression: progressive.md
-    - Results: results.md
+    - Results: result.md
     
 extra_css:
     - css/custom.css
